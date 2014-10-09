@@ -17,7 +17,7 @@ class Animal():
     def quesoy(self):
       return "soy un animal"
 
-  class Perro(Animal):
+class Perro(Animal):
       pass
 
 class Gato(Animal):
